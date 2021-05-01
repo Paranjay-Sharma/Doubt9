@@ -1,0 +1,14 @@
+h1 {
+    color: greenyellow;
+}
+p,h2 {
+text-align: center;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    justify-content: flex-start;
+}
